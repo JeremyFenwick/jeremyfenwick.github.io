@@ -8,4 +8,4 @@ permalink: /cv/
 
 You can view my CV here:
 
-👉 [Download CV (PDF)](/CV.pdf)
+[Download CV (PDF)](/CV.pdf)
